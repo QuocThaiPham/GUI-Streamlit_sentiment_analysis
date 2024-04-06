@@ -8,3 +8,4 @@ regex
 WordCloud
 streamlit_option_menu
 underthesea
+imblearn
